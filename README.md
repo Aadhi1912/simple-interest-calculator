@@ -31,4 +31,4 @@ Output:
 
 ## Author
 
-Adei
+AdeiFixed a typo in this line.
