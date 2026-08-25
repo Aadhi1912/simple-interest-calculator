@@ -32,3 +32,4 @@ Output:
 ## Author
 
 AdeiFixed a typo in this line.
+Fixed a typo in this line.
